@@ -25,7 +25,6 @@ public class Hello{
             default:
                 System.out.println("Invalid operator");
         }
-
         sc.close();
       }
   }
